@@ -1,2 +1,2 @@
 # preparty
-Full site v1
+Site finalizado com backups de  relatos e duvidas do preparty
